@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin
+xhofe/alist:latest
